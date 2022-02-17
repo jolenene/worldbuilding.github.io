@@ -1,0 +1,39 @@
+.good{
+    border-radius: 30px;
+    border-color: pink;
+    color:hotpink;
+    margin-left: 725px;
+    margin-top: 150px;
+
+
+}
+.goodtext{
+    margin-left:210px;
+    margin-top:-250px;
+    font-family:'spectral';
+ 
+}
+.evil{
+    color:aquamarine;
+    margin-top:-285px;
+    margin-left:330px;
+}
+.eviltext{
+    margin-top:-245px;
+    margin-left:160px;
+    font-family:'spectral';
+}
+
+.neutral{
+    color:#ddc5f5;
+    margin-left:620px;
+    margin-top:-242px;
+}
+.neutext{
+    margin-left:85px;
+    margin-top:-200px;
+    font-family:'spectral';
+}
+body{
+    background-color: black;
+}
